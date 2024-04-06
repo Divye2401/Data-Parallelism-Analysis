@@ -8,7 +8,7 @@ The assignment involves working with a large CSV file (~2.21 GB) containing info
 
 ### Data
 
-The dataset consists of 61 columns and provides comprehensive information about air flights. [Download Dataset](flight_data.csv)
+The dataset consists of 61 columns and provides comprehensive information about air flights. [Download Dataset](dataset.zip)
 
 ### Implementation
 
@@ -37,7 +37,7 @@ All of these problems were implemented using three parallelism techniques:
 
 ## Resources
 
-- [Dataset](flight_data.csv)
+- [Dataset](dataset.zip)
 - [MPI Documentation](https://www.open-mpi.org/)
 - [Python Threading Documentation](https://docs.python.org/3/library/threading.html)
 - [Python Multiprocessing Documentation](https://docs.python.org/3/library/multiprocessing.html)
