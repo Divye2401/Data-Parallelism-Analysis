@@ -12,12 +12,12 @@ The dataset consists of 61 columns and provides comprehensive information about 
 
 ### Implementation
 
-The scripts have been written to answer specific metrics such as
+The scripts have been written to answer certain random metrics such as
 
-1. **Q1**: Airline with the highest percentage of flights departing from airports with origin codes starting with 'P' or 'S' in 2021.
-2. **Q2**: Determining the airline with the highest percentage of on-time arrivals in 2021.
-3. **Q3**: Finding the airline with the highest percentage of flights arriving early (negative arrival delay) in the first quarter of 2021.
-4. **Q4**: Identifing the busiest hour of the day for flights departing from "Hartsfield-Jackson Atlanta International Airport" (ATL) in terms of the number of departures in November 2021.
+1.  Airline with the highest percentage of flights departing from airports with origin codes starting with 'P' or 'S' in 2021.
+2.  Determining the airline with the highest percentage of on-time arrivals in 2021.
+3.  Finding the airline with the highest percentage of flights arriving early (negative arrival delay) in the first quarter of 2021.
+4.  Identifing the busiest hour of the day for flights departing from "Hartsfield-Jackson Atlanta International Airport" (ATL) in terms of the number of departures in November 2021.
 
 All of these problems were implemented using three parallelism techniques:
 
