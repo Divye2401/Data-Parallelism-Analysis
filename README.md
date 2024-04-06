@@ -1,6 +1,6 @@
 # Big Data Analytics with Parallelism Techniques
 
-In this programming assignment, you will perform several big data analytics tasks using different parallelism techniques, including multi-threading, multi-processing, and MPI (Message Passing Interface). The goal is to divide the problem into smaller chunks and process them concurrently and in parallel.
+This project involves data analytics tasks using different parallelism techniques, including multi-threading, multi-processing, and MPI (Message Passing Interface). The goal is to divide the problem into smaller chunks and process them concurrently and in parallel.
 
 ## Overview
 
